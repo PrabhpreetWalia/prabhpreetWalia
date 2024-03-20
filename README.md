@@ -4,7 +4,10 @@
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=python,flask)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=js,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,flask)] &nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=html,css)] &nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=js,react)]
 
+## Socials
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)]((https://www.linkedin.com/in/prabhpreeet/))
