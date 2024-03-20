@@ -10,4 +10,5 @@
 
 ## Socials
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)]((https://www.linkedin.com/in/prabhpreeet/))
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/prabhpreeet/) &nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:prabhpreet.business@gmail.com))
