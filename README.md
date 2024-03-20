@@ -4,9 +4,9 @@
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=python,flask)] &nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=html,css)] &nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=js,react)]
+![My Skills](https://skillicons.dev/icons?i=python,flask) &nbsp;&nbsp;&nbsp;
+![My Skills](https://skillicons.dev/icons?i=html,css) &nbsp;&nbsp;&nbsp;
+![My Skills](https://skillicons.dev/icons?i=js,react)
 
 ## Socials
 
